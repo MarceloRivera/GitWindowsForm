@@ -15,6 +15,7 @@ namespace aula01
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("teste");
         }
     }
 }
